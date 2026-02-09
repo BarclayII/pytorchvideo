@@ -6,7 +6,7 @@ from typing import Any, Callable, Dict, Optional, Tuple
 
 import torch
 import torchvision
-import torchvision.transforms.functional_tensor as F_t
+import torchvision.transforms.functional as F_t
 from torchvision.transforms.functional import InterpolationMode
 
 
